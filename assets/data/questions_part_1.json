@@ -1,0 +1,47 @@
+{
+  "task_list": {
+    "title": "TXT",
+    "part": "",
+    "task_list_en": [
+      "Create an external repository named TXT.",
+      "Clone TXT repository to local machine.",
+      "Inside the local TXT, create the file \"new.txt\".",
+      "Add file under git.",
+      "Commit file.",
+      "Push file to external GitHub repository.",
+      "Edit the contents of the \"new.txt\" file - write information about yourself (full name, age, number of pets, future desired salary). Write everything in TXT format.",
+      "Submit changes to external repository.",
+      "Create preferences.txt file",
+      "In the preferences.txt file, add information about your preferences (Favorite movie, favorite series, favorite food, favorite season, side you would like to visit) in TXT format.",
+      "Create a sklls.txt file to add information about the skills that will be studied in the course in TXT format",
+      "Make a commit in one line.",
+      "Upload 2 files at once to an external repository.",
+      "Create a bug_report.txt file on the web interface.",
+      "Make Commit changes (save) changes on the web interface.",
+      "On the web interface, modify the bug_report.txt file, add a bug report in TXT format.",
+      "Make Commit changes (save) changes on the web interface.",
+      "Synchronize external and local TXT repository"
+    ],
+    "task_list_ru": [
+      "Создать внешний репозиторий c названием TXT.",
+      "Клонировать репозиторий TXT на локальный компьютер.",
+      "Внутри локального TXT создать файл \"new.txt\".",
+      "Добавить файл под гит.",
+      "Закоммитить файл.",
+      "Отправить файл на внешний GitHub репозиторий.",
+      "Отредактировать содержание файла \"new.txt\" - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата). Всё написать в формате TXT.",
+      "Отправить изменения на внешний репозиторий.",
+      "Создать файл preferences.txt",
+      "В файл preferences.txt добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате TXT.",
+      "Создать файл sklls.txt добавить информацию о скиллах которые будут изучены на курсе в формате TXT",
+      "Сделать коммит в одну строку.",
+      "Отправить сразу 2 файла на внешний репозиторий.",
+      "На веб интерфейсе создать файл bug_report.txt.",
+      "Сделать Commit changes (сохранить) изменения на веб интерфейсе.",
+      "На веб интерфейсе модифицировать файл bug_report.txt, добавить баг репорт в формате TXT.",
+      "Сделать Commit changes (сохранить) изменения на веб интерфейсе.",
+      "Синхронизировать внешний и локальный репозиторий TXT"
+    ],
+    "increased_complexity": []
+  }
+}
