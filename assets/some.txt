@@ -1,0 +1,6 @@
+Name: Dobby
+Last name: Houseelf
+Full name: Dobby Houseelf Potterovich
+Age: 30
+number of pets: 1
+Desired salary: 75000
