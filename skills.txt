@@ -1,0 +1,8 @@
+1. Git
+2. Postman
+3. DevTools
+4. Terminal
+5. Fiddler
+6. Html
+7. JavaScript
+8. Python.
